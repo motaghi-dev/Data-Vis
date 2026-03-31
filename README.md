@@ -1,6 +1,6 @@
 # Gold News Sentiment vs Price Moves
 
-This tests how well news sentiment about gold line up with later moves in the gold price (daily). It links a dataset of news headlines and sentiment labels to historical prices, then checks if “positive” or “negative” sentiment matches the following price move over a 3-day window. It looks stupid I did it 3 in the morning. I'll fix it don worry. 
+This tests how well news sentiment about gold line up with later moves in the gold price (daily). It links a dataset of news headlines and sentiment labels to historical prices, then checks if “positive” or “negative” sentiment matches the following price move over a 3-day window. It looks stupid I did it 3 in the morning.
 
 1. **Load news data**
 
